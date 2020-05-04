@@ -1,2 +1,2 @@
 # deep_u_net-pytorch
-Implementation of Deep U-Net in PyTorch
+Implementation of [Deep U-Net](https://arxiv.org/abs/1505.04597) in PyTorch
